@@ -30,14 +30,14 @@ tl = gsap.timeline()
 tl.from("nav>.navRight>a",{
     opacity: 0,
     stagger: .1,
-    duration: 1,
+    duration: .5,
     delay: .1
 },"a")
 
 tl.from(".page1>.hero>.slider-container",{
     x: -100,
-    duration: 1,
+    duration: .5,
     opacity: 0,
-    delay: 0.3
+    delay: 0.1
 },"a")
 
