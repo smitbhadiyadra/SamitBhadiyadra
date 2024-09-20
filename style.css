@@ -197,7 +197,7 @@ nav>.navRight>a:hover{
     align-items: center;
     padding: 0 .5vw;
     border-bottom: 1px solid #1A1B1F;
-    transition: .5s;
+    transition: padding .5s;
 }
 
 .page1>.hero>.links a:hover .box{
