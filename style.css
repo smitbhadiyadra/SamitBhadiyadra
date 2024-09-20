@@ -86,8 +86,9 @@ nav{
 }
 
 nav>.logo{
-    width: 80px;
-    height: 40px;
+    /* width: 80px;
+    height: 40px; */
+    padding: 1.1vh .6vw;
     background-color: #1A1B1F;
     border-radius: 3px;
     cursor: pointer;
